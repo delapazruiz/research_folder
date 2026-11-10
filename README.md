@@ -1,9 +1,10 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24104279.svg)](https://doi.org/10.5281/zenodo.24104279)
 # R Research Software Template
 
 <div align="center">
   <img src="img/UT_Logo_0072_Black_EN.png" alt="logo">
 </div>
+
 
 A template to comply with the [University of Twente Research Software Guidelines](https://zenodo.org/records/15807424) for making your software project FAIR.
 
