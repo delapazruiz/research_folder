@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: research software Nestor
+message: Please cite if you use this code in your research
+type: software
+authors:
+  - given-names: Nestor
+    family-names: DelaPaz-Riz
+    email: n.delapazruiz@utwente.nl
+    affiliation: 'DCC-LISA, University of Twente'
+repository-code: 'https://github.com/delapazruiz/research_folder.git'
+abstract: Practicing for research software management
+keywords:
+  - method
+  - spatiotemporal analytics
+license: CC-BY-4.0
+commit: 0ef5ce280681df098d00bc78a880d5ec3dbddc70
+version: 0.0.0
+date-released: '2026-11-11'
